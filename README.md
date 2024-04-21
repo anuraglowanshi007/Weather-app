@@ -11,7 +11,7 @@ Users can simply enter the name of the city or provide the latitude and longitud
 - **Responsive Design:** The app is designed to work seamlessly on desktop and mobile devices.
 
 ## Demo
-[Include a link to a live demo of the Weather App or screenshots showing its functionality.]
+[(https://weather-5s0rg412c-anurag-lowanshis-projects.vercel.app/)]
 
 ## Technologies Used
 - **HTML5:** Markup language for structuring the web page.
